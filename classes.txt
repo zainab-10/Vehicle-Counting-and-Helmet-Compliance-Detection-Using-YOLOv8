@@ -1,0 +1,6 @@
+bus
+car
+motor cycle
+motor cycle without helmet
+number plate
+truck
